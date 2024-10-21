@@ -9,5 +9,7 @@ the HR dashboard and conducting PESTLE and SWOT analysis, this report offers
 insights into Unilever current performance and actionable recommendations for 
 improvement
 
-Tools used: Tableau /n
+#Tools used: Tableau
+
+
 Dummy Data is used for this Analysis
